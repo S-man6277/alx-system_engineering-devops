@@ -1,1 +1,1 @@
-My first readme
+script that display confused smiley
